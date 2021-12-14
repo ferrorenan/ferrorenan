@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ## 🔧 Adventuring
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=fc0000&color=fc0000)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61dafb&color=61dafb)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
 
