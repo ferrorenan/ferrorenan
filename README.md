@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
 
 ## 📕 Top projects I've contributed to
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular&show_owner=true)](https://github.com/angular/angular)
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
   <a href="https://github.com/angular/angular"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextcord"></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular)](https://github.com/angular/angular)
+
 
