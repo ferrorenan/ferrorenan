@@ -38,6 +38,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=fc0000&color=fc0000)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
 
+## ✏️ &nbsp;Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Implementing a page with Angular Pipe Async + RxJs Observable + Skeleton Loading](https://dev.to/renancferro/implementing-a-page-with-angular-pipe-async-rxjs-observable-skeleton-loading-401d)
+- [A little conversation about RxJs Operators and some examples](https://dev.to/renancferro/a-little-conversation-about-rxjs-operators-and-some-examples-21dn)
+- [A reusable cascade animation with Angular Animation](https://dev.to/renancferro/a-reusable-cascade-animation-with-angular-animation-1h4d)
+- [Angular Pipe Character Counter](https://dev.to/renancferro/angular-pipe-character-counter-1odf)
+<!-- BLOG-POST-LIST:END -->
+
+
 ## 📕 Projects I've contributed to
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/angular/angular)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-angular&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-angular)
