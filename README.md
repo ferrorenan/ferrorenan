@@ -3,6 +3,9 @@
 
 ### Hi there 👋
 
+I'm Renan Ferro! A frontend passionate about learning, doing different things and always improving, sharing what I know and learning what I don't 👨🏻‍💻!
+
+
 <!--
 **ferrorenan/ferrorenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +27,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrorenan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=fc0000&color=fc0000)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=14b9ff&color=14b9ff)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=0088ff&color=0088ff)
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=e34f26&color=e34f26)
@@ -33,10 +38,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=f7df1e)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0769AD)
 
-
-## 🔧 Adventuring
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=fc0000&color=fc0000)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
 
 ## ✏️ &nbsp;Blog posts
 
