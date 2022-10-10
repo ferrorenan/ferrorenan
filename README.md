@@ -50,3 +50,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextcord"></a>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular)](https://github.com/angular/angular)
+
