@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferrorenan&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrorenan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrorenan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=14b9ff&color=14b9ff)
