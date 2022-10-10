@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
 
 <div align="center">
-## 📕 Projects I've contributed to
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/angular/angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-angular&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-lp&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-lp)
-  </div>
+  ## 📕 Projects I've contributed to
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/angular/angular)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-angular&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-angular)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-lp&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-lp)
+</div>
 
 
 
