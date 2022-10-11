@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-lp&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-lp)
 
-
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
