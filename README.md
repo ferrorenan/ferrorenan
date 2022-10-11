@@ -60,8 +60,3 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-angular&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-angular)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agenciafmd&repo=starter-lp&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/agenciafmd/starter-lp)
-
-1) ReactJS  
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=62DAFB&color=62DAFB)
-2) CSS  
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=214CE5&color=214CE5)
