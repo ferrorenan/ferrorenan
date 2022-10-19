@@ -44,6 +44,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=f7df1e)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0769AD)
 
+## 📦 Version control
+![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=F05034&color=F05034)
+![](https://img.shields.io/badge/VersionControl-Github-informational?style=flat&logo=github&logoColor=222222&color=222222)
+![](https://img.shields.io/badge/VersionControl-GitLab-informational?style=flat&logo=gitlab&logoColor=FCA325&color=FCA325)
+
 ## 🧩 Testing
 ![](https://img.shields.io/badge/Testing-Jasmine-informational?style=flat&logo=jasmine&logoColor=c633b5&color=c633b5)
 
