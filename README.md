@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 ## 🛠 Tools
 ![](https://img.shields.io/badge/WebStorm-informational?style=flat&logo=webstorm&logoColor=26C1E5&color=0A0A0A)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=0088ff&color=0A0A0A)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=postman&logoColor=FB6C35&color=0A0A0A)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FB6C35&color=0A0A0A)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=00ffbf&color=0A0A0A)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=0A5DF4&color=0A0A0A)
 ![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=0b8fe8&color=0A0A0A)
 
