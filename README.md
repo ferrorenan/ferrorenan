@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=f7df1e)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0769AD)
 
+## 🧩 Testing
+![](https://img.shields.io/badge/Testing-Jasmine-informational?style=flat&logo=jasmine&logoColor=c633b5&color=c633b5)
+
 
 ## ✏️ &nbsp;Blog posts
 
