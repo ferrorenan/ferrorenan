@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=0f56fc&color=0A0A0A)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0A0A0A)
 
-## 📦 Version control
+## 🗃 Version control
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=F05034&color=0A0A0A)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fffffff&color=0A0A0A)
 ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=FCA325&color=0A0A0A)
@@ -72,6 +72,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=00ffbf&color=0A0A0A)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=0A5DF4&color=0A0A0A)
 ![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=0b8fe8&color=0A0A0A)
+
+## 📦 My NPM Packages
+- [Angular: Verify is Server Side](https://www.npmjs.com/package/ngx-verify-is-server-side)
 
 ## ✏️ &nbsp;Blog posts
 
