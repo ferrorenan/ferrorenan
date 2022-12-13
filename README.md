@@ -57,12 +57,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=0f56fc&color=0A0A0A)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0A0A0A)
 
+## 🧑🏻‍💻 Code (Learning/A Little Experience)
+![](https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=61DAFB&color=0A0A0A)
+![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs&logoColor=E0234E&color=0A0A0A)
+![](https://img.shields.io/badge/Node%20JS-informational?style=flat&logo=node.js&logoColor=90C53F&color=0A0A0A)
+
 ## 🗃 Version control
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=F05034&color=0A0A0A)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fffffff&color=0A0A0A)
 ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=FCA325&color=0A0A0A)
 
-## 🧩 Testing
+## 🧩 Test
 ![](https://img.shields.io/badge/Jasmine-informational?style=flat&logo=jasmine&logoColor=c633b5&color=0A0A0A)
 
 ## 🛠 Tools
