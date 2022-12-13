@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/WebStorm-informational?style=flat&logo=webstorm&logoColor=26C1E5&color=0A0A0A)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=0088ff&color=0A0A0A)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FB6C35&color=0A0A0A)
+![](https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=7a0ff7&color=0A0A0A)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=00ffbf&color=0A0A0A)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=0A5DF4&color=0A0A0A)
 ![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=0b8fe8&color=0A0A0A)
@@ -84,6 +85,8 @@ Here are some ideas to get you started:
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding and Implementing Three.js with Angular and creating a 3D Animation](https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea)
+- [Understanding and Implementing State Management with NGXS in Angular](https://dev.to/renancferro/understanding-and-implementing-state-management-with-ngxs-in-angular-5f2j)
 - [Implementing a page with Angular Pipe Async + RxJs Observable + Skeleton Loading](https://dev.to/renancferro/implementing-a-page-with-angular-pipe-async-rxjs-observable-skeleton-loading-401d)
 - [A little conversation about RxJs Operators and some examples](https://dev.to/renancferro/a-little-conversation-about-rxjs-operators-and-some-examples-21dn)
 - [A reusable cascade animation with Angular Animation](https://dev.to/renancferro/a-reusable-cascade-animation-with-angular-animation-1h4d)
