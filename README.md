@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ## Hobby
 
 Codewars:
-https://www.codewars.com/users/ferrorenan/badges/large
+![image](https://www.codewars.com/users/ferrorenan/badges/large)
 
 ## 📦 My NPM Packages
 - [Angular: Verify is Server Side](https://www.npmjs.com/package/ngx-verify-is-server-side)
