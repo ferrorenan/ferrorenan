@@ -11,7 +11,6 @@
 
 I'm Renan Ferro! A frontend passionate about learning, doing different things and always improving, sharing what I know and learning what I don't 👨🏻‍💻!
 
-
 <!--
 **ferrorenan/ferrorenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,6 +77,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=00ffbf&color=0A0A0A)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=0A5DF4&color=0A0A0A)
 ![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=0b8fe8&color=0A0A0A)
+
+## Hobby
+
+Codewars:
+https://www.codewars.com/users/ferrorenan/badges/large
 
 ## 📦 My NPM Packages
 - [Angular: Verify is Server Side](https://www.npmjs.com/package/ngx-verify-is-server-side)
