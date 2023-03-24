@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ## Hobby
 
-Codewars:
+Codewars:  
 ![image](https://www.codewars.com/users/ferrorenan/badges/large)
 
 ## 📦 My NPM Packages
