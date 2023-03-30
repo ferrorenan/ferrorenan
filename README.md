@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=0A5DF4&color=0A0A0A)
 ![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=0b8fe8&color=0A0A0A)
 
-## Hobby
+## 4Fun
 
 ![image](https://www.codewars.com/users/ferrorenan/badges/large)
 
