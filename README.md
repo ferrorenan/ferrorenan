@@ -11,38 +11,6 @@
 
 I'm Renan Ferro! A frontend passionate about learning, doing different things and always improving, sharing what I know and learning what I don't 👨🏻‍💻!
 
-<!--
-**ferrorenan/ferrorenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferrorenan&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrorenan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=fc0000&color=fc0000)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=14b9ff&color=14b9ff)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=0088ff&color=0088ff)
-![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=e34f26&color=e34f26)
-![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=fb5bc5&color=fb5bc5)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=e34f26&color=e34f26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=f43059&color=f43059)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=f7df1e)
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0769AD)-->
-
 ## 💻 Code
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=C3012F&color=0A0A0A)
 ![](https://img.shields.io/badge/Angular%20Material-informational?style=flat&logo=angular&logoColor=E91E64&color=0A0A0A)
@@ -56,11 +24,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=e34f26&color=0A0A0A)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=0f56fc&color=0A0A0A)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0A0A0A)
-
-## 🧑🏻‍💻 Code (Learning/A Little Experience)
-![](https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=61DAFB&color=0A0A0A)
-![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs&logoColor=E0234E&color=0A0A0A)
-![](https://img.shields.io/badge/Node%20JS-informational?style=flat&logo=node.js&logoColor=90C53F&color=0A0A0A)
 
 ## 🗃 Version control
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=F05034&color=0A0A0A)
@@ -79,8 +42,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=0A5DF4&color=0A0A0A)
 ![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=0b8fe8&color=0A0A0A)
 
-## 4Fun
+## 👨🏼‍🔬 Studying/Practicing
+![](https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=61DAFB&color=0A0A0A)
+![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs&logoColor=E0234E&color=0A0A0A)
+![](https://img.shields.io/badge/Node%20JS-informational?style=flat&logo=node.js&logoColor=90C53F&color=0A0A0A)
 
+## 🎮 4Fun
 ![image](https://www.codewars.com/users/ferrorenan/badges/large)
 
 ## 📦 My NPM Packages
