@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=C3012F&color=0A0A0A)
 ![](https://img.shields.io/badge/Angular%20Material-informational?style=flat&logo=angular&logoColor=E91E64&color=0A0A0A)
 ![](https://img.shields.io/badge/RXJS-informational?style=flat&logo=reactivex&logoColor=FB0990&color=0A0A0A)
+![](https://img.shields.io/badge/NGXS-informational?style=flat&logo=reactivex&logoColor=1D1AFF&color=0A0A0A)
 ![](https://img.shields.io/badge/NGRX-informational?style=flat&logo=reactivex&logoColor=BA2BD2&color=0A0A0A)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=881AFC&color=0A0A0A)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=0A0A0A)
