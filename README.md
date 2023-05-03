@@ -58,7 +58,7 @@ I'm Renan Ferro! A frontend passionate about learning, doing different things an
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding and Implementing Three.js with Angular and creating a 3D Animation](https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea)
-- [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
+- [JavaScript: Function Types You Should Know](https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
 - [Let's build a Nice and Animated Notifications Menu with Angular, Angular Animations and Bootstrap](https://dev.to/renancferro/lets-build-a-nice-and-animated-notifications-menu-with-angular-angular-animations-and-bootstrap-3kp8)
 - [Understanding and Implementing State Management with NGXS in Angular](https://dev.to/renancferro/understanding-and-implementing-state-management-with-ngxs-in-angular-5f2j)
 - [Implementing a page with Angular Pipe Async + RxJs Observable + Skeleton Loading](https://dev.to/renancferro/implementing-a-page-with-angular-pipe-async-rxjs-observable-skeleton-loading-401d)
