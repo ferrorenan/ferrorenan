@@ -54,7 +54,7 @@ I'm Renan Ferro! A frontend passionate about learning, doing different things an
 ## 📦 My NPM Packages
 - [Angular: Verify is Server Side](https://www.npmjs.com/package/ngx-verify-is-server-side)
 
-## ✏️ &nbsp;My community contributions 
+## ✏️ &nbsp;My articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding and Implementing Three.js with Angular and creating a 3D Animation](https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea)
