@@ -9,9 +9,9 @@
 
 ### Hi there 👋
 
-I'm Renan Ferro! A frontend passionate about learning, doing different things and always improving, sharing what I know and learning what I don't 👨🏻‍💻!
+I'm Renan Ferro! A Frontend developer passionate about learning, doing different things and always improving, sharing what I know and learning what I don't 👨🏻‍💻!
 
-## 💻 Code
+<!-- ## 💻 Code
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=C3012F&color=0A0A0A)
 ![](https://img.shields.io/badge/Angular%20Material-informational?style=flat&logo=angular&logoColor=E91E64&color=0A0A0A)
 ![](https://img.shields.io/badge/RXJS-informational?style=flat&logo=reactivex&logoColor=FB0990&color=0A0A0A)
@@ -56,7 +56,6 @@ I'm Renan Ferro! A frontend passionate about learning, doing different things an
 
 ## ✏️ &nbsp;My articles
 
-<!-- BLOG-POST-LIST:START -->
 - [Understanding and Implementing Three.js with Angular and creating a 3D Animation](https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea)
 - [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
 - [Let's build a Nice and Animated Notifications Menu with Angular, Angular Animations and Bootstrap](https://dev.to/renancferro/lets-build-a-nice-and-animated-notifications-menu-with-angular-angular-animations-and-bootstrap-3kp8)
