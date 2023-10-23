@@ -1,5 +1,4 @@
-[![@renanferro's Holopin board](https://holopin.io/api/user/board?user=renanferro)](https://holopin.io/@renanferro)
-
+[![An image of @renanferro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/renanferro)](https://holopin.io/@renanferro)
 
 <div align="center">
 <h3>Where to find me</h3>
